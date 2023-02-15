@@ -14,6 +14,6 @@ app.get('/about', function (req, res) {
 
 //write a separate page about /products
 // send a simple message to this route
-//This is just a useless comment
+
 
 app.listen(port, () => console.log(`Example app listening on port ${port}!`))
